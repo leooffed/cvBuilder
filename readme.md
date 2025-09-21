@@ -1,0 +1,1 @@
+![Hero Image](frontend/src/assets/hero-img.png)
